@@ -1,0 +1,2042 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="620"
+  height="190"
+  viewBox="0 0 620 190"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">
+    GitHub activity over the last 365 days
+  </title>
+
+  <desc id="desc">
+    Daily contribution activity represented by characters.
+    1106 aggregate contributions are represented.
+  </desc>
+
+  <style>
+    :root {
+      --text-primary: #1f2328;
+      --text-secondary: #656d76;
+      --rule: #d0d7de;
+
+      --level-0: #d8dee4;
+      --level-1: #9be9a8;
+      --level-2: #40c463;
+      --level-3: #30a14e;
+      --level-4: #216e39;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text-primary: #f0f6fc;
+        --text-secondary: #8b949e;
+        --rule: #30363d;
+
+        --level-0: #30363d;
+        --level-1: #0e4429;
+        --level-2: #006d32;
+        --level-3: #26a641;
+        --level-4: #39d353;
+      }
+    }
+
+    text {
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        monospace;
+    }
+
+    .secondary {
+      fill: var(--text-secondary);
+    }
+
+    .rule {
+      stroke: var(--rule);
+    }
+
+    .month {
+      font-size: 8px;
+      letter-spacing: .5px;
+    }
+
+    .weekday {
+      font-size: 8px;
+      letter-spacing: .45px;
+    }
+
+    .signal {
+      font-size: 12px;
+      text-anchor: middle;
+    }
+
+    .level-0 {
+      fill: var(--level-0);
+    }
+
+    .level-1 {
+      fill: var(--level-1);
+    }
+
+    .level-2 {
+      fill: var(--level-2);
+    }
+
+    .level-3 {
+      fill: var(--level-3);
+    }
+
+    .level-4 {
+      fill: var(--level-4);
+    }
+  </style>
+
+  <text
+    x="26"
+    y="24"
+    class="secondary"
+    font-size="11"
+    letter-spacing="1.4"
+  >YEAR // DAILY SIGNAL</text>
+
+  <line
+    x1="170"
+    y1="20"
+    x2="594"
+    y2="20"
+    class="rule"
+    stroke-width="1"
+  />
+
+  
+  <text
+    x="84.0"
+    y="43"
+    class="secondary month"
+  >AUG</text>
+  <text
+    x="120.8"
+    y="43"
+    class="secondary month"
+  >SEP</text>
+  <text
+    x="157.6"
+    y="43"
+    class="secondary month"
+  >OCT</text>
+  <text
+    x="194.4"
+    y="43"
+    class="secondary month"
+  >NOV</text>
+  <text
+    x="240.4"
+    y="43"
+    class="secondary month"
+  >DEC</text>
+  <text
+    x="277.2"
+    y="43"
+    class="secondary month"
+  >JAN</text>
+  <text
+    x="323.2"
+    y="43"
+    class="secondary month"
+  >FEB</text>
+  <text
+    x="360.0"
+    y="43"
+    class="secondary month"
+  >MAR</text>
+  <text
+    x="396.8"
+    y="43"
+    class="secondary month"
+  >APR</text>
+  <text
+    x="433.6"
+    y="43"
+    class="secondary month"
+  >MAY</text>
+  <text
+    x="479.6"
+    y="43"
+    class="secondary month"
+  >JUN</text>
+  <text
+    x="516.4"
+    y="43"
+    class="secondary month"
+  >JUL</text>
+  <text
+    x="553.2"
+    y="43"
+    class="secondary month"
+  >AUG</text>
+
+  <text x="26" y="64" class="secondary weekday">SUN</text>
+  <text x="26" y="79" class="secondary weekday">MON</text>
+  <text x="26" y="94" class="secondary weekday">TUE</text>
+  <text x="26" y="109" class="secondary weekday">WED</text>
+  <text x="26" y="124" class="secondary weekday">THU</text>
+  <text x="26" y="139" class="secondary weekday">FRI</text>
+  <text x="26" y="154" class="secondary weekday">SAT</text>
+
+  
+  <text
+    x="84.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="84.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="93.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="93.2"
+    y="79.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="93.2"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="93.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="93.2"
+    y="124.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="93.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="93.2"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="102.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="111.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="120.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="130.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="139.2"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="148.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="157.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="166.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="176.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="185.2"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="194.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="203.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="212.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="222.0"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="222.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="222.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="222.0"
+    y="109.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="222.0"
+    y="124.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="222.0"
+    y="139.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="222.0"
+    y="154.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="231.2"
+    y="64.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="231.2"
+    y="79.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="231.2"
+    y="94.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="231.2"
+    y="109.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="231.2"
+    y="124.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="231.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="231.2"
+    y="154.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="240.4"
+    y="64.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="240.4"
+    y="79.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="240.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="240.4"
+    y="109.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="240.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="240.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="240.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="249.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="249.6"
+    y="79.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="249.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="249.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="249.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="249.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="249.6"
+    y="154.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="258.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="258.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="258.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="258.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="258.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="258.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="258.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="268.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="277.2"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="286.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="295.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="304.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="314.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="323.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="323.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="323.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="323.2"
+    y="109.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="323.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="323.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="323.2"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="332.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="341.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="350.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="360.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="369.2"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="378.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="387.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="396.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="396.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="396.8"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="396.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="396.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="396.8"
+    y="139.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="396.8"
+    y="154.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="406.0"
+    y="64.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="406.0"
+    y="79.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="406.0"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="406.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="406.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="406.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="406.0"
+    y="154.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="415.2"
+    y="64.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="415.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="415.2"
+    y="94.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="415.2"
+    y="109.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="415.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="415.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="415.2"
+    y="154.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="424.4"
+    y="64.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="424.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="424.4"
+    y="94.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="424.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="424.4"
+    y="124.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="424.4"
+    y="139.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="424.4"
+    y="154.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="433.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="433.6"
+    y="79.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="433.6"
+    y="94.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="433.6"
+    y="109.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="433.6"
+    y="124.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="433.6"
+    y="139.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="433.6"
+    y="154.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="442.8"
+    y="64.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="442.8"
+    y="79.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="442.8"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="442.8"
+    y="109.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="442.8"
+    y="124.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="442.8"
+    y="139.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="442.8"
+    y="154.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="452.0"
+    y="64.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="452.0"
+    y="79.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="452.0"
+    y="94.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="452.0"
+    y="109.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="452.0"
+    y="124.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="452.0"
+    y="139.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="452.0"
+    y="154.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="461.2"
+    y="64.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="461.2"
+    y="79.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="461.2"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="461.2"
+    y="109.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="461.2"
+    y="124.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="461.2"
+    y="139.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="461.2"
+    y="154.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="470.4"
+    y="64.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="470.4"
+    y="79.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="470.4"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="470.4"
+    y="109.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="470.4"
+    y="124.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="470.4"
+    y="139.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="470.4"
+    y="154.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="479.6"
+    y="64.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="479.6"
+    y="79.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="479.6"
+    y="94.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="479.6"
+    y="109.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="479.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="479.6"
+    y="139.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="479.6"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="488.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="488.8"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="488.8"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="488.8"
+    y="109.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="488.8"
+    y="124.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="488.8"
+    y="139.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="488.8"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="498.0"
+    y="64.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="498.0"
+    y="79.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="498.0"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="498.0"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="498.0"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="498.0"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="498.0"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="507.2"
+    y="64.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="507.2"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="507.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="507.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="507.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="507.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="507.2"
+    y="154.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="516.4"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="516.4"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="516.4"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="516.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="516.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="516.4"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="516.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="525.6"
+    y="154.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="534.8"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="534.8"
+    y="79.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="534.8"
+    y="94.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="534.8"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="534.8"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="534.8"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="534.8"
+    y="154.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="544.0"
+    y="64.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="544.0"
+    y="79.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="544.0"
+    y="94.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="544.0"
+    y="109.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="544.0"
+    y="124.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="544.0"
+    y="139.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="544.0"
+    y="154.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="553.2"
+    y="64.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="553.2"
+    y="79.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="553.2"
+    y="94.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="553.2"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="553.2"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="553.2"
+    y="139.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="553.2"
+    y="154.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="562.4"
+    y="64.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="562.4"
+    y="79.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="562.4"
+    y="94.0"
+    class="level-2 signal"
+  >+</text>
+  <text
+    x="562.4"
+    y="109.0"
+    class="level-1 signal"
+  >:</text>
+  <text
+    x="562.4"
+    y="124.0"
+    class="level-0 signal"
+  >·</text>
+  <text
+    x="562.4"
+    y="139.0"
+    class="level-4 signal"
+  >@</text>
+
+  <line
+    x1="26"
+    y1="174"
+    x2="594"
+    y2="174"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <text
+    x="26"
+    y="188"
+    class="secondary"
+    font-size="9"
+    letter-spacing=".4"
+  >QUIET · : + # @ ACTIVE</text>
+
+  <text
+    x="594"
+    y="188"
+    text-anchor="end"
+    class="secondary"
+    font-size="9"
+  >AUTO-REFRESH</text>
+</svg>

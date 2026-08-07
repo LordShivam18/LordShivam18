@@ -1,0 +1,188 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="620"
+  height="180"
+  viewBox="0 0 620 180"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">GitHub contribution activity</title>
+  <desc id="desc">
+    1106 contributions over the last 365 days with weekly activity bars.
+  </desc>
+
+  <style>
+    :root {
+      --text-primary: #1f2328;
+      --text-secondary: #656d76;
+      --rule: #d0d7de;
+
+      --zero: #d8dee4;
+      --green-1: #9be9a8;
+      --green-2: #40c463;
+      --green-3: #30a14e;
+      --green-4: #216e39;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text-primary: #f0f6fc;
+        --text-secondary: #8b949e;
+        --rule: #30363d;
+
+        --zero: #30363d;
+        --green-1: #0e4429;
+        --green-2: #006d32;
+        --green-3: #26a641;
+        --green-4: #39d353;
+      }
+    }
+
+    .primary {
+      fill: var(--text-primary);
+    }
+
+    .secondary {
+      fill: var(--text-secondary);
+    }
+
+    .rule {
+      stroke: var(--rule);
+    }
+
+    .activity-zero {
+      fill: var(--zero);
+    }
+
+    .activity-1 {
+      fill: var(--green-1);
+    }
+
+    .activity-2 {
+      fill: var(--green-2);
+    }
+
+    .activity-3 {
+      fill: var(--green-3);
+    }
+
+    .activity-4 {
+      fill: var(--green-4);
+    }
+  </style>
+
+  <text
+    x="26"
+    y="32"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="11"
+    letter-spacing="1.4"
+  >ACTIVITY // 365D</text>
+
+  <line
+    x1="145"
+    y1="28"
+    x2="594"
+    y2="28"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <text
+    x="26"
+    y="93"
+    class="primary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="48"
+    font-weight="700"
+  >1,106</text>
+
+  <text
+    x="28"
+    y="116"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="12"
+  >contributions</text>
+
+  <rect x="76" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="86" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="96" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="106" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="116" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="126" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="136" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="146" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="156" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="166" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="176" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="186" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="196" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="206" y="126.76" width="6" height="9.24" rx="3" class="activity-1" />
+    <rect x="216" y="94.0" width="6" height="42.0" rx="3" class="activity-4" />
+    <rect x="226" y="100.21000000000001" width="6" height="35.79" rx="3" class="activity-4" />
+    <rect x="236" y="111.1" width="6" height="24.9" rx="3" class="activity-3" />
+    <rect x="246" y="118.92" width="6" height="17.08" rx="3" class="activity-2" />
+    <rect x="256" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="266" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="276" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="286" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="296" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="306" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="316" y="121.98" width="6" height="14.02" rx="3" class="activity-1" />
+    <rect x="326" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="336" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="346" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="356" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="366" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="376" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="386" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="396" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="406" y="124.38" width="6" height="11.62" rx="3" class="activity-1" />
+    <rect x="416" y="114.05" width="6" height="21.95" rx="3" class="activity-2" />
+    <rect x="426" y="115.35" width="6" height="20.65" rx="3" class="activity-2" />
+    <rect x="436" y="107.63" width="6" height="28.37" rx="3" class="activity-3" />
+    <rect x="446" y="108.99" width="6" height="27.01" rx="3" class="activity-3" />
+    <rect x="456" y="121.34" width="6" height="14.66" rx="3" class="activity-1" />
+    <rect x="466" y="103.09" width="6" height="32.91" rx="3" class="activity-4" />
+    <rect x="476" y="99.21000000000001" width="6" height="36.79" rx="3" class="activity-4" />
+    <rect x="486" y="116.95" width="6" height="19.05" rx="3" class="activity-2" />
+    <rect x="496" y="124.02" width="6" height="11.98" rx="3" class="activity-1" />
+    <rect x="506" y="121.34" width="6" height="14.66" rx="3" class="activity-1" />
+    <rect x="516" y="128.7" width="6" height="7.3" rx="3" class="activity-1" />
+    <rect x="526" y="128.7" width="6" height="7.3" rx="3" class="activity-1" />
+    <rect x="536" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="546" y="121.98" width="6" height="14.02" rx="3" class="activity-1" />
+    <rect x="556" y="114.57" width="6" height="21.43" rx="3" class="activity-2" />
+    <rect x="566" y="122.97" width="6" height="13.03" rx="3" class="activity-1" />
+    <rect x="576" y="121.02" width="6" height="14.98" rx="3" class="activity-1" />
+    <rect x="586" y="116.41" width="6" height="19.59" rx="3" class="activity-2" />
+
+  <line
+    x1="26"
+    y1="151"
+    x2="594"
+    y2="151"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <text
+    x="26"
+    y="171"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="10"
+    letter-spacing=".45"
+  >PUBLIC + PRIVACY-SAFE AGGREGATE ACTIVITY</text>
+
+  <text
+    x="594"
+    y="171"
+    text-anchor="end"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="10"
+  >AUTO-REFRESH</text>
+</svg>

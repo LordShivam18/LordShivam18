@@ -1,0 +1,176 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="620"
+  height="180"
+  viewBox="0 0 620 180"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">GitHub contribution streaks</title>
+  <desc id="desc">
+    Current contribution streak is 1 days.
+    Longest streak in the last 365 days is 38 days.
+  </desc>
+
+  <style>
+    :root {
+      --text-primary: #1f2328;
+      --text-secondary: #656d76;
+      --rule: #d0d7de;
+      --accent: #1a7f37;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text-primary: #f0f6fc;
+        --text-secondary: #8b949e;
+        --rule: #30363d;
+        --accent: #3fb950;
+      }
+    }
+
+    .primary {
+      fill: var(--text-primary);
+    }
+
+    .secondary {
+      fill: var(--text-secondary);
+    }
+
+    .accent {
+      fill: var(--accent);
+    }
+
+    .rule {
+      stroke: var(--rule);
+    }
+  </style>
+
+  <text
+    x="26"
+    y="30"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="11"
+    letter-spacing="1.4"
+  >STREAKS // 365D</text>
+
+  <line
+    x1="145"
+    y1="26"
+    x2="594"
+    y2="26"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <!-- CURRENT -->
+
+  <text
+    x="26"
+    y="63"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="10"
+    letter-spacing="1.2"
+  >CURRENT</text>
+
+  <text
+    x="26"
+    y="112"
+    class="primary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="46"
+    font-weight="700"
+  >1</text>
+
+  <text
+    x="84"
+    y="109"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="12"
+  >DAYS</text>
+
+  <text
+    x="26"
+    y="135"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="9"
+  >AUG 07, 2026</text>
+
+  <!-- DIVIDER -->
+
+  <line
+    x1="307"
+    y1="51"
+    x2="307"
+    y2="137"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <!-- LONGEST -->
+
+  <text
+    x="335"
+    y="63"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="10"
+    letter-spacing="1.2"
+  >LONGEST</text>
+
+  <text
+    x="335"
+    y="112"
+    class="accent"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="46"
+    font-weight="700"
+  >38</text>
+
+  <text
+    x="415"
+    y="109"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="12"
+  >DAYS</text>
+
+  <text
+    x="335"
+    y="135"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="9"
+  >APR 27, 2026 — JUN 03, 2026</text>
+
+  <line
+    x1="26"
+    y1="151"
+    x2="594"
+    y2="151"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <text
+    x="26"
+    y="171"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="10"
+    letter-spacing=".45"
+  >AGGREGATE GITHUB ACTIVITY</text>
+
+  <text
+    x="594"
+    y="171"
+    text-anchor="end"
+    class="secondary"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="10"
+  >AUTO-REFRESH</text>
+</svg>

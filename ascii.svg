@@ -1,0 +1,308 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="553"
+  height="511"
+  viewBox="0 0 553 511"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">ASCII portrait</title>
+
+  <desc id="desc">
+    Portrait rendered locally from a private source photograph
+    using a generated ASCII brightness map.
+  </desc>
+
+  <style>
+    :root {
+      --ascii: #1a7f37;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --ascii: #3fb950;
+      }
+    }
+
+    .ascii {
+      fill: var(--ascii);
+
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        monospace;
+
+      font-size: 9px;
+      font-weight: 500;
+    }
+  </style>
+
+  
+  <text
+    x="18"
+    y="22.0"
+    xml:space="preserve"
+    class="ascii"
+  >                            .::--::::-=--:..</text>
+  <text
+    x="18"
+    y="32.8"
+    xml:space="preserve"
+    class="ascii"
+  >                        .:+#%@@@@@@@@@@@@@@%%%%%#*+-:.</text>
+  <text
+    x="18"
+    y="43.6"
+    xml:space="preserve"
+    class="ascii"
+  >                      =*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#=:.</text>
+  <text
+    x="18"
+    y="54.4"
+    xml:space="preserve"
+    class="ascii"
+  >                   -+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@%*=.</text>
+  <text
+    x="18"
+    y="65.2"
+    xml:space="preserve"
+    class="ascii"
+  >                  :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-</text>
+  <text
+    x="18"
+    y="76.0"
+    xml:space="preserve"
+    class="ascii"
+  >                 .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+.</text>
+  <text
+    x="18"
+    y="86.8"
+    xml:space="preserve"
+    class="ascii"
+  >                 +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.</text>
+  <text
+    x="18"
+    y="97.6"
+    xml:space="preserve"
+    class="ascii"
+  >               .*@@@@@@@@@@@@@@@@@@@%%%########%%%%@@@@@@@@@@@@@@%-</text>
+  <text
+    x="18"
+    y="108.4"
+    xml:space="preserve"
+    class="ascii"
+  >               -@@@@@@@@@@@@@@@%#+=====--::::::::--=+*#%@@@@@@@@@@#:</text>
+  <text
+    x="18"
+    y="119.2"
+    xml:space="preserve"
+    class="ascii"
+  >               :%@@@@@@@@@@@%#*=------:::::::.....::::--+*%@@@@@@@@=</text>
+  <text
+    x="18"
+    y="130.0"
+    xml:space="preserve"
+    class="ascii"
+  >               :#@@@@@@@@@%#+=------::::.............:::::=*#@@@@@@@-</text>
+  <text
+    x="18"
+    y="140.8"
+    xml:space="preserve"
+    class="ascii"
+  >               :#@@@@@@@@#*+===-:::::.................::::-=*%@@@@@@#</text>
+  <text
+    x="18"
+    y="151.6"
+    xml:space="preserve"
+    class="ascii"
+  >               -%@@@@@@%*++==----::::.........  . .......::-+#@@@@@@@=</text>
+  <text
+    x="18"
+    y="162.4"
+    xml:space="preserve"
+    class="ascii"
+  >              :%@@@@@@@#++===--::.. ....... .  ..:::---=++=-:-*%@@@@@#</text>
+  <text
+    x="18"
+    y="173.2"
+    xml:space="preserve"
+    class="ascii"
+  >              :%@@@@@@@#*+==--::::.:.       .-==*#%%%%%@@@%%*==*%%%@@@-</text>
+  <text
+    x="18"
+    y="184.0"
+    xml:space="preserve"
+    class="ascii"
+  >              =@@@@@@@@#*****####***=-:. ..:=+*#%%@@%#**++**##%@@@#+@@=</text>
+  <text
+    x="18"
+    y="194.8"
+    xml:space="preserve"
+    class="ascii"
+  >              =@@@@@@@%#%@@@@@@@@@%%#**====*###%%%#*+=====++=-*%%@@+%@-</text>
+  <text
+    x="18"
+    y="205.6"
+    xml:space="preserve"
+    class="ascii"
+  >               #@@@@@@%@@@@@%%%%%%@@@@@@@@@@%####%%%@%@%#%%#+=*@%@@#%*.</text>
+  <text
+    x="18"
+    y="216.4"
+    xml:space="preserve"
+    class="ascii"
+  >               -@@@@%%@%%%%%##**##%%%%@@%#%@%-++*%%#%%%##%##**=+#*%%%.</text>
+  <text
+    x="18"
+    y="227.2"
+    xml:space="preserve"
+    class="ascii"
+  >                +@@#*@@%@@@@@@@@@*%%%%@#=::=%*:-=======++====-:-%:++*.</text>
+  <text
+    x="18"
+    y="238.0"
+    xml:space="preserve"
+    class="ascii"
+  >                .-%#*%@@%@@@%%%%#++**%@+=:..:##-.......:::::--=*=:-:::</text>
+  <text
+    x="18"
+    y="248.8"
+    xml:space="preserve"
+    class="ascii"
+  >               ...-%-.+##%%%%#**+===*%*=-....:=#*==-------=====::::=:.</text>
+  <text
+    x="18"
+    y="259.6"
+    xml:space="preserve"
+    class="ascii"
+  >               ..::=%-:***++++====+#@#=-:.  ....=**+====---::::::--=-.</text>
+  <text
+    x="18"
+    y="270.4"
+    xml:space="preserve"
+    class="ascii"
+  >               ..:-=*#*****+++**####++*+-:..:==-:.:    .......::-----.</text>
+  <text
+    x="18"
+    y="281.2"
+    xml:space="preserve"
+    class="ascii"
+  >               ...:=+**###****++=:-**%@@#******##+:   ...::::::----=:</text>
+  <text
+    x="18"
+    y="292.0"
+    xml:space="preserve"
+    class="ascii"
+  >                ..:-=**#%#**+==-::+%%%%%@@%*=-::-:.......::::::----.</text>
+  <text
+    x="18"
+    y="302.8"
+    xml:space="preserve"
+    class="ascii"
+  >                 ..:-+**##**+++=---=+****+-:=-------=--:::-:----==-</text>
+  <text
+    x="18"
+    y="313.6"
+    xml:space="preserve"
+    class="ascii"
+  >                  ..:-++####***++*##*++++==--======+*****==---=====</text>
+  <text
+    x="18"
+    y="324.4"
+    xml:space="preserve"
+    class="ascii"
+  >                    ..:=#%###*#%%@@%%%%%%###***##########+=--======</text>
+  <text
+    x="18"
+    y="335.2"
+    xml:space="preserve"
+    class="ascii"
+  >                     .::+%%%##*#######**=-:.....::::::::====++++++-</text>
+  <text
+    x="18"
+    y="346.0"
+    xml:space="preserve"
+    class="ascii"
+  >                    ..:-=%%%%%##*+++++++++***++==--:..::-=++*****+.</text>
+  <text
+    x="18"
+    y="356.8"
+    xml:space="preserve"
+    class="ascii"
+  >                    ..:-=*%@%@@%%#*+++++***##*+=-:::::--==+**###=.</text>
+  <text
+    x="18"
+    y="367.6"
+    xml:space="preserve"
+    class="ascii"
+  >                    ...:=+%@@@@@%%#*+=------::......:---=+*#%%%+:</text>
+  <text
+    x="18"
+    y="378.4"
+    xml:space="preserve"
+    class="ascii"
+  >                    .-*%@@@@@@@@@%%#*++=---::::::---===+#%@@@%*%@#+:</text>
+  <text
+    x="18"
+    y="389.2"
+    xml:space="preserve"
+    class="ascii"
+  >                 ..=%@@@@@@@@@@@@@@%%%##*++=++++++**###%@@%#***@@@@@%+:</text>
+  <text
+    x="18"
+    y="400.0"
+    xml:space="preserve"
+    class="ascii"
+  >              ....-@@@@@@@@@@@@@@@@@@@@@%%%%%#%###%%@@@%%#*+++#@@@@@@@@#-</text>
+  <text
+    x="18"
+    y="410.8"
+    xml:space="preserve"
+    class="ascii"
+  >                  +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#**+==+*#@@@@@@@@@@#+:</text>
+  <text
+    x="18"
+    y="421.6"
+    xml:space="preserve"
+    class="ascii"
+  >            .:-+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=--=+*#%@@@@@@@@@@@%#=.</text>
+  <text
+    x="18"
+    y="432.4"
+    xml:space="preserve"
+    class="ascii"
+  >          :*%@@@@@@@@@@%*##%@@@@@@@@@@@@@@@@@@@@@%##*+=-:-=++*##%%@@@@@@@@%%@@%+:</text>
+  <text
+    x="18"
+    y="443.2"
+    xml:space="preserve"
+    class="ascii"
+  >  .-+*####@@@@@@@@@@@@@%++*#%@@@@@@@@@@@@@@@@@%%#*++=----==+++**###@@@@@@@@@@%@@@#..</text>
+  <text
+    x="18"
+    y="454.0"
+    xml:space="preserve"
+    class="ascii"
+  >*#@@@@@@@@@@@@@@@@@@@@@@%++*#%@@@@@@@@@@@@@%#*++=====---======**#%*%@@@@@@@@@%%@@@%%</text>
+  <text
+    x="18"
+    y="464.8"
+    xml:space="preserve"
+    class="ascii"
+  >@@@@@@@@@@@@@@@@@@@@@@@@@%++*#%%%%%%##******++++============-=+*#%*#@@@@@@@@@@@@@@@@</text>
+  <text
+    x="18"
+    y="475.6"
+    xml:space="preserve"
+    class="ascii"
+  >@@@@@@@@@@@@@@@@@@@@@@@@@@%==+*****#*++++****++++++==-====-::-=+%#*%@@@@@@@@@@@@@@@@</text>
+  <text
+    x="18"
+    y="486.4"
+    xml:space="preserve"
+    class="ascii"
+  >@@@@@@@@@@@@@@@@@@@@@@@@@@@#==++===+**=--==++++++===--===-:..:-*@*#@@@@@@@@@@@@@@@@@</text>
+</svg>

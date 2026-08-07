@@ -1,0 +1,449 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="620"
+  height="245"
+  viewBox="0 0 620 245"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">
+    Programming languages across public repositories
+  </title>
+
+  <desc id="desc">
+    Language statistics calculated from
+    11 public non-fork repositories.
+  </desc>
+
+  <style>
+    :root {
+      --text-primary: #1f2328;
+      --text-secondary: #656d76;
+      --rule: #d0d7de;
+
+      --track: #eaeef2;
+      --accent: #1a7f37;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text-primary: #f0f6fc;
+        --text-secondary: #8b949e;
+        --rule: #30363d;
+
+        --track: #21262d;
+        --accent: #3fb950;
+      }
+    }
+
+    text {
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        monospace;
+    }
+
+    .primary {
+      fill: var(--text-primary);
+    }
+
+    .secondary {
+      fill: var(--text-secondary);
+    }
+
+    .rule {
+      stroke: var(--rule);
+    }
+
+    .bar-track {
+      fill: var(--track);
+    }
+
+    .bar-fill {
+      fill: var(--accent);
+    }
+
+    .language-name {
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .language-value {
+      font-size: 8.5px;
+    }
+  </style>
+
+  <text
+    x="26"
+    y="24"
+    class="secondary"
+    font-size="11"
+    letter-spacing="1.4"
+  >LANGUAGES // PUBLIC CODE</text>
+
+  <line
+    x1="195"
+    y1="20"
+    x2="594"
+    y2="20"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <text
+    x="26"
+    y="51"
+    class="secondary"
+    font-size="9"
+    letter-spacing="1"
+  >BY CODE BYTES</text>
+
+  <text
+    x="330"
+    y="51"
+    class="secondary"
+    font-size="9"
+    letter-spacing="1"
+  >BY REPOSITORY PRESENCE</text>
+
+  
+  <text
+    x="26"
+    y="78"
+    class="primary language-name"
+  >TypeScript</text>
+
+  <text
+    x="201"
+    y="78"
+    text-anchor="end"
+    class="secondary language-value"
+  >51.8%</text>
+
+  <rect
+    x="26"
+    y="86"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="26"
+    y="86"
+    width="90.60"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="26"
+    y="107"
+    class="primary language-name"
+  >Python</text>
+
+  <text
+    x="201"
+    y="107"
+    text-anchor="end"
+    class="secondary language-value"
+  >36.6%</text>
+
+  <rect
+    x="26"
+    y="115"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="26"
+    y="115"
+    width="64.01"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="26"
+    y="136"
+    class="primary language-name"
+  >JavaScript</text>
+
+  <text
+    x="201"
+    y="136"
+    text-anchor="end"
+    class="secondary language-value"
+  >4.7%</text>
+
+  <rect
+    x="26"
+    y="144"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="26"
+    y="144"
+    width="8.26"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="26"
+    y="165"
+    class="primary language-name"
+  >Jupyter Notebook</text>
+
+  <text
+    x="201"
+    y="165"
+    text-anchor="end"
+    class="secondary language-value"
+  >4.0%</text>
+
+  <rect
+    x="26"
+    y="173"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="26"
+    y="173"
+    width="7.05"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="26"
+    y="194"
+    class="primary language-name"
+  >CSS</text>
+
+  <text
+    x="201"
+    y="194"
+    text-anchor="end"
+    class="secondary language-value"
+  >2.4%</text>
+
+  <rect
+    x="26"
+    y="202"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="26"
+    y="202"
+    width="4.27"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+
+  <line
+    x1="307"
+    y1="50"
+    x2="307"
+    y2="211"
+    class="rule"
+    stroke-width="1"
+  />
+
+  
+  <text
+    x="330"
+    y="78"
+    class="primary language-name"
+  >JavaScript</text>
+
+  <text
+    x="505"
+    y="78"
+    text-anchor="end"
+    class="secondary language-value"
+  >54.5% · 6 repos</text>
+
+  <rect
+    x="330"
+    y="86"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="86"
+    width="95.46"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="330"
+    y="107"
+    class="primary language-name"
+  >CSS</text>
+
+  <text
+    x="505"
+    y="107"
+    text-anchor="end"
+    class="secondary language-value"
+  >54.5% · 6 repos</text>
+
+  <rect
+    x="330"
+    y="115"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="115"
+    width="95.46"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="330"
+    y="136"
+    class="primary language-name"
+  >Python</text>
+
+  <text
+    x="505"
+    y="136"
+    text-anchor="end"
+    class="secondary language-value"
+  >36.4% · 4 repos</text>
+
+  <rect
+    x="330"
+    y="144"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="144"
+    width="63.63"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="330"
+    y="165"
+    class="primary language-name"
+  >HTML</text>
+
+  <text
+    x="505"
+    y="165"
+    text-anchor="end"
+    class="secondary language-value"
+  >36.4% · 4 repos</text>
+
+  <rect
+    x="330"
+    y="173"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="173"
+    width="63.63"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="330"
+    y="194"
+    class="primary language-name"
+  >Dockerfile</text>
+
+  <text
+    x="505"
+    y="194"
+    text-anchor="end"
+    class="secondary language-value"
+  >36.4% · 4 repos</text>
+
+  <rect
+    x="330"
+    y="202"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="202"
+    width="63.63"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+
+  <line
+    x1="26"
+    y1="218"
+    x2="594"
+    y2="218"
+    class="rule"
+    stroke-width="1"
+  />
+
+  <text
+    x="26"
+    y="238"
+    class="secondary"
+    font-size="9"
+    letter-spacing=".4"
+  >11 PUBLIC NON-FORK REPOSITORIES</text>
+
+  <text
+    x="594"
+    y="238"
+    text-anchor="end"
+    class="secondary"
+    font-size="9"
+  >AUTO-REFRESH</text>
+</svg>
