@@ -8,7 +8,7 @@
 >
   <title id="title">GitHub contribution streaks</title>
   <desc id="desc">
-    Current contribution streak is 8 days.
+    Current contribution streak is 9 days.
     Longest streak in the last 365 days is 38 days.
   </desc>
 
@@ -82,7 +82,7 @@
     font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
     font-size="46"
     font-weight="700"
-  >8</text>
+  >9</text>
 
   <text
     x="84"
@@ -98,7 +98,7 @@
     class="secondary"
     font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
     font-size="9"
-  >AUG 07, 2026 — AUG 14, 2026</text>
+  >AUG 07, 2026 — AUG 15, 2026</text>
 
   <!-- DIVIDER -->
 
