@@ -114,14 +114,14 @@
     x="26"
     y="78"
     class="primary language-name"
-  >TypeScript</text>
+  >Python</text>
 
   <text
     x="201"
     y="78"
     text-anchor="end"
     class="secondary language-value"
-  >50.2%</text>
+  >46.4%</text>
 
   <rect
     x="26"
@@ -135,7 +135,7 @@
   <rect
     x="26"
     y="86"
-    width="87.88"
+    width="81.11"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -144,14 +144,14 @@
     x="26"
     y="107"
     class="primary language-name"
-  >Python</text>
+  >TypeScript</text>
 
   <text
     x="201"
     y="107"
     text-anchor="end"
     class="secondary language-value"
-  >38.5%</text>
+  >43.8%</text>
 
   <rect
     x="26"
@@ -165,7 +165,7 @@
   <rect
     x="26"
     y="115"
-    width="67.30"
+    width="76.63"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -181,7 +181,7 @@
     y="136"
     text-anchor="end"
     class="secondary language-value"
-  >4.6%</text>
+  >4.0%</text>
 
   <rect
     x="26"
@@ -195,7 +195,7 @@
   <rect
     x="26"
     y="144"
-    width="8.02"
+    width="6.98"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -211,7 +211,7 @@
     y="165"
     text-anchor="end"
     class="secondary language-value"
-  >3.9%</text>
+  >3.4%</text>
 
   <rect
     x="26"
@@ -225,7 +225,7 @@
   <rect
     x="26"
     y="173"
-    width="6.84"
+    width="5.97"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -241,7 +241,7 @@
     y="194"
     text-anchor="end"
     class="secondary language-value"
-  >2.4%</text>
+  >2.1%</text>
 
   <rect
     x="26"
@@ -255,7 +255,7 @@
   <rect
     x="26"
     y="202"
-    width="4.15"
+    width="3.60"
     height="5"
     rx="2.5"
     class="bar-fill"
