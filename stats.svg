@@ -115,19 +115,19 @@
     <rect x="136" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="146" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="156" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
-    <rect x="166" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
-    <rect x="176" y="122.63" width="6" height="13.37" rx="3" class="activity-1" />
+    <rect x="166" y="130.02" width="6" height="5.98" rx="3" class="activity-1" />
+    <rect x="176" y="118.01" width="6" height="17.99" rx="3" class="activity-2" />
     <rect x="186" y="94.0" width="6" height="42.0" rx="3" class="activity-4" />
-    <rect x="196" y="98.9" width="6" height="37.1" rx="3" class="activity-4" />
-    <rect x="206" y="110.25" width="6" height="25.75" rx="3" class="activity-3" />
-    <rect x="216" y="118.4" width="6" height="17.6" rx="3" class="activity-2" />
+    <rect x="196" y="110.03" width="6" height="25.97" rx="3" class="activity-3" />
+    <rect x="206" y="105.87" width="6" height="30.13" rx="3" class="activity-3" />
+    <rect x="216" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="226" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="236" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="246" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="256" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="266" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="276" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
-    <rect x="286" y="121.59" width="6" height="14.41" rx="3" class="activity-1" />
+    <rect x="286" y="122.49" width="6" height="13.51" rx="3" class="activity-1" />
     <rect x="296" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="306" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="316" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
@@ -135,29 +135,29 @@
     <rect x="336" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="346" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
     <rect x="356" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
-    <rect x="366" y="129.21" width="6" height="6.79" rx="3" class="activity-1" />
-    <rect x="376" y="124.88" width="6" height="11.12" rx="3" class="activity-1" />
-    <rect x="386" y="113.33" width="6" height="22.67" rx="3" class="activity-2" />
-    <rect x="396" y="110.25" width="6" height="25.75" rx="3" class="activity-3" />
-    <rect x="406" y="110.5" width="6" height="25.5" rx="3" class="activity-3" />
-    <rect x="416" y="107.34" width="6" height="28.66" rx="3" class="activity-3" />
-    <rect x="426" y="118.1" width="6" height="17.9" rx="3" class="activity-2" />
-    <rect x="436" y="96.21000000000001" width="6" height="39.79" rx="3" class="activity-4" />
-    <rect x="446" y="106.17" width="6" height="29.83" rx="3" class="activity-3" />
-    <rect x="456" y="116.64" width="6" height="19.36" rx="3" class="activity-2" />
-    <rect x="466" y="121.93" width="6" height="14.07" rx="3" class="activity-1" />
-    <rect x="476" y="122.99" width="6" height="13.01" rx="3" class="activity-1" />
-    <rect x="486" y="128.6" width="6" height="7.4" rx="3" class="activity-1" />
-    <rect x="496" y="128.6" width="6" height="7.4" rx="3" class="activity-1" />
-    <rect x="506" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
-    <rect x="516" y="121.59" width="6" height="14.41" rx="3" class="activity-1" />
-    <rect x="526" y="112.03" width="6" height="23.97" rx="3" class="activity-2" />
-    <rect x="536" y="125.28999999999999" width="6" height="10.71" rx="3" class="activity-1" />
-    <rect x="546" y="109.27" width="6" height="26.73" rx="3" class="activity-3" />
-    <rect x="556" y="121.59" width="6" height="14.41" rx="3" class="activity-1" />
-    <rect x="566" y="120.6" width="6" height="15.4" rx="3" class="activity-1" />
-    <rect x="576" y="110.75" width="6" height="25.25" rx="3" class="activity-3" />
-    <rect x="586" y="123.72" width="6" height="12.28" rx="3" class="activity-1" />
+    <rect x="366" y="126.6" width="6" height="9.4" rx="3" class="activity-1" />
+    <rect x="376" y="124.08" width="6" height="11.92" rx="3" class="activity-1" />
+    <rect x="386" y="116.48" width="6" height="19.52" rx="3" class="activity-2" />
+    <rect x="396" y="109.17" width="6" height="26.83" rx="3" class="activity-3" />
+    <rect x="406" y="112.46000000000001" width="6" height="23.54" rx="3" class="activity-2" />
+    <rect x="416" y="113.37" width="6" height="22.63" rx="3" class="activity-2" />
+    <rect x="426" y="116.98" width="6" height="19.02" rx="3" class="activity-2" />
+    <rect x="436" y="98.61" width="6" height="37.39" rx="3" class="activity-4" />
+    <rect x="446" y="111.56" width="6" height="24.44" rx="3" class="activity-3" />
+    <rect x="456" y="118.27" width="6" height="17.73" rx="3" class="activity-2" />
+    <rect x="466" y="122.8" width="6" height="13.2" rx="3" class="activity-1" />
+    <rect x="476" y="123.75" width="6" height="12.25" rx="3" class="activity-1" />
+    <rect x="486" y="127.42" width="6" height="8.58" rx="3" class="activity-1" />
+    <rect x="496" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
+    <rect x="506" y="128.83" width="6" height="7.17" rx="3" class="activity-1" />
+    <rect x="516" y="119.33" width="6" height="16.67" rx="3" class="activity-2" />
+    <rect x="526" y="115.5" width="6" height="20.5" rx="3" class="activity-2" />
+    <rect x="536" y="126.6" width="6" height="9.4" rx="3" class="activity-1" />
+    <rect x="546" y="110.46000000000001" width="6" height="25.54" rx="3" class="activity-3" />
+    <rect x="556" y="125.11" width="6" height="10.89" rx="3" class="activity-1" />
+    <rect x="566" y="115.74" width="6" height="20.26" rx="3" class="activity-2" />
+    <rect x="576" y="114.78" width="6" height="21.22" rx="3" class="activity-2" />
+    <rect x="586" y="134.0" width="6" height="2.0" rx="3" class="activity-zero" />
 
   <line
     x1="26"
