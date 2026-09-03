@@ -12,7 +12,7 @@
 
   <desc id="desc">
     Daily contribution activity represented by characters.
-    1205 aggregate contributions are represented.
+    1207 aggregate contributions are represented.
   </desc>
 
   <style>
@@ -2012,8 +2012,8 @@
   <text
     x="562.4"
     y="124.0"
-    class="level-0 signal"
-  >·</text>
+    class="level-1 signal"
+  >:</text>
 
   <line
     x1="26"
