@@ -191,11 +191,6 @@
   
   <text
     x="84.0"
-    y="139.0"
-    class="level-0 signal"
-  >·</text>
-  <text
-    x="84.0"
     y="154.0"
     class="level-0 signal"
   >·</text>
@@ -2014,6 +2009,11 @@
     y="139.0"
     class="level-2 signal"
   >+</text>
+  <text
+    x="562.4"
+    y="154.0"
+    class="level-0 signal"
+  >·</text>
 
   <line
     x1="26"
