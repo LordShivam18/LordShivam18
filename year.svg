@@ -12,7 +12,7 @@
 
   <desc id="desc">
     Daily contribution activity represented by characters.
-    1263 aggregate contributions are represented.
+    1306 aggregate contributions are represented.
   </desc>
 
   <style>
@@ -1277,8 +1277,8 @@
   <text
     x="369.2"
     y="64.0"
-    class="level-4 signal"
-  >@</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="369.2"
     y="79.0"
@@ -1727,15 +1727,15 @@
   <text
     x="479.6"
     y="154.0"
+    class="level-3 signal"
+  >#</text>
+  <text
+    x="488.8"
+    y="64.0"
     class="level-4 signal"
   >@</text>
   <text
     x="488.8"
-    y="64.0"
-    class="level-4 signal"
-  >@</text>
-  <text
-    x="488.8"
     y="79.0"
     class="level-0 signal"
   >·</text>
@@ -1907,8 +1907,8 @@
   <text
     x="534.8"
     y="64.0"
-    class="level-4 signal"
-  >@</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="534.8"
     y="79.0"
@@ -1922,8 +1922,8 @@
   <text
     x="534.8"
     y="109.0"
-    class="level-3 signal"
-  >#</text>
+    class="level-4 signal"
+  >@</text>
   <text
     x="534.8"
     y="124.0"
@@ -1932,13 +1932,13 @@
   <text
     x="534.8"
     y="139.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="534.8"
     y="154.0"
-    class="level-4 signal"
-  >@</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="544.0"
     y="64.0"
@@ -1957,8 +1957,8 @@
   <text
     x="544.0"
     y="109.0"
-    class="level-3 signal"
-  >#</text>
+    class="level-4 signal"
+  >@</text>
   <text
     x="544.0"
     y="124.0"
@@ -1997,23 +1997,23 @@
   <text
     x="553.2"
     y="124.0"
-    class="level-2 signal"
-  >+</text>
-  <text
-    x="553.2"
-    y="139.0"
     class="level-3 signal"
   >#</text>
   <text
     x="553.2"
+    y="139.0"
+    class="level-4 signal"
+  >@</text>
+  <text
+    x="553.2"
     y="154.0"
-    class="level-1 signal"
-  >:</text>
+    class="level-2 signal"
+  >+</text>
   <text
     x="562.4"
     y="64.0"
-    class="level-0 signal"
-  >·</text>
+    class="level-3 signal"
+  >#</text>
 
   <line
     x1="26"
