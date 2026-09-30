@@ -118,11 +118,6 @@
     x="84.0"
     y="43"
     class="secondary month"
-  >SEP</text>
-  <text
-    x="84.0"
-    y="43"
-    class="secondary month"
   >OCT</text>
   <text
     x="120.8"
@@ -191,11 +186,6 @@
   
   <text
     x="84.0"
-    y="94.0"
-    class="level-0 signal"
-  >·</text>
-  <text
-    x="84.0"
     y="109.0"
     class="level-0 signal"
   >·</text>
@@ -2014,6 +2004,11 @@
     y="94.0"
     class="level-1 signal"
   >:</text>
+  <text
+    x="562.4"
+    y="109.0"
+    class="level-0 signal"
+  >·</text>
 
   <line
     x1="26"
