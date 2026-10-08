@@ -121,7 +121,7 @@
     y="78"
     text-anchor="end"
     class="secondary language-value"
-  >51.1%</text>
+  >56.1%</text>
 
   <rect
     x="26"
@@ -135,7 +135,7 @@
   <rect
     x="26"
     y="86"
-    width="89.36"
+    width="98.12"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -151,7 +151,7 @@
     y="107"
     text-anchor="end"
     class="secondary language-value"
-  >39.2%</text>
+  >35.2%</text>
 
   <rect
     x="26"
@@ -165,7 +165,7 @@
   <rect
     x="26"
     y="115"
-    width="68.62"
+    width="61.58"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -181,7 +181,7 @@
     y="136"
     text-anchor="end"
     class="secondary language-value"
-  >4.5%</text>
+  >4.1%</text>
 
   <rect
     x="26"
@@ -195,7 +195,7 @@
   <rect
     x="26"
     y="144"
-    width="7.91"
+    width="7.10"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -211,7 +211,7 @@
     y="165"
     text-anchor="end"
     class="secondary language-value"
-  >2.9%</text>
+  >2.6%</text>
 
   <rect
     x="26"
@@ -225,7 +225,7 @@
   <rect
     x="26"
     y="173"
-    width="5.14"
+    width="4.62"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -241,7 +241,7 @@
     y="194"
     text-anchor="end"
     class="secondary language-value"
-  >1.8%</text>
+  >1.6%</text>
 
   <rect
     x="26"
@@ -255,7 +255,7 @@
   <rect
     x="26"
     y="202"
-    width="3.11"
+    width="2.80"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -275,7 +275,7 @@
     x="330"
     y="78"
     class="primary language-name"
-  >CSS</text>
+  >JavaScript</text>
 
   <text
     x="505"
@@ -305,7 +305,7 @@
     x="330"
     y="107"
     class="primary language-name"
-  >JavaScript</text>
+  >CSS</text>
 
   <text
     x="505"
@@ -365,7 +365,7 @@
     x="330"
     y="165"
     class="primary language-name"
-  >Dockerfile</text>
+  >HTML</text>
 
   <text
     x="505"
@@ -395,7 +395,7 @@
     x="330"
     y="194"
     class="primary language-name"
-  >HTML</text>
+  >Dockerfile</text>
 
   <text
     x="505"
