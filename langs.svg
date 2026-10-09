@@ -121,7 +121,7 @@
     y="78"
     text-anchor="end"
     class="secondary language-value"
-  >56.1%</text>
+  >56.5%</text>
 
   <rect
     x="26"
@@ -135,7 +135,7 @@
   <rect
     x="26"
     y="86"
-    width="98.12"
+    width="98.86"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -151,7 +151,7 @@
     y="107"
     text-anchor="end"
     class="secondary language-value"
-  >35.2%</text>
+  >32.1%</text>
 
   <rect
     x="26"
@@ -165,7 +165,7 @@
   <rect
     x="26"
     y="115"
-    width="61.58"
+    width="56.25"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -181,7 +181,7 @@
     y="136"
     text-anchor="end"
     class="secondary language-value"
-  >4.1%</text>
+  >7.1%</text>
 
   <rect
     x="26"
@@ -195,7 +195,7 @@
   <rect
     x="26"
     y="144"
-    width="7.10"
+    width="12.42"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -211,7 +211,7 @@
     y="165"
     text-anchor="end"
     class="secondary language-value"
-  >2.6%</text>
+  >2.4%</text>
 
   <rect
     x="26"
@@ -225,7 +225,7 @@
   <rect
     x="26"
     y="173"
-    width="4.62"
+    width="4.22"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -241,7 +241,7 @@
     y="194"
     text-anchor="end"
     class="secondary language-value"
-  >1.6%</text>
+  >1.5%</text>
 
   <rect
     x="26"
@@ -255,7 +255,7 @@
   <rect
     x="26"
     y="202"
-    width="2.80"
+    width="2.56"
     height="5"
     rx="2.5"
     class="bar-fill"
