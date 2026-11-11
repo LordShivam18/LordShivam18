@@ -12,7 +12,7 @@
 
   <desc id="desc">
     Daily contribution activity represented by characters.
-    1655 aggregate contributions are represented.
+    1661 aggregate contributions are represented.
   </desc>
 
   <style>
@@ -907,8 +907,8 @@
   <text
     x="268.0"
     y="154.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="277.2"
     y="64.0"
@@ -1022,8 +1022,8 @@
   <text
     x="304.8"
     y="79.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="304.8"
     y="94.0"
@@ -1122,8 +1122,8 @@
   <text
     x="332.4"
     y="64.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="332.4"
     y="79.0"
@@ -1252,8 +1252,8 @@
   <text
     x="360.0"
     y="139.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="360.0"
     y="154.0"
@@ -1512,13 +1512,13 @@
   <text
     x="433.6"
     y="79.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="433.6"
     y="94.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="433.6"
     y="109.0"
@@ -1577,8 +1577,8 @@
   <text
     x="452.0"
     y="64.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="452.0"
     y="79.0"
@@ -1672,8 +1672,8 @@
   <text
     x="470.4"
     y="139.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="470.4"
     y="154.0"
@@ -1692,8 +1692,8 @@
   <text
     x="479.6"
     y="94.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="479.6"
     y="109.0"
@@ -1762,8 +1762,8 @@
   <text
     x="498.0"
     y="94.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="498.0"
     y="109.0"
@@ -1862,8 +1862,8 @@
   <text
     x="525.6"
     y="79.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="525.6"
     y="94.0"
@@ -1907,8 +1907,8 @@
   <text
     x="534.8"
     y="109.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="534.8"
     y="124.0"
@@ -1917,8 +1917,8 @@
   <text
     x="534.8"
     y="139.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="534.8"
     y="154.0"
@@ -1937,8 +1937,8 @@
   <text
     x="544.0"
     y="94.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="544.0"
     y="109.0"
@@ -1977,8 +1977,8 @@
   <text
     x="553.2"
     y="109.0"
-    class="level-2 signal"
-  >+</text>
+    class="level-3 signal"
+  >#</text>
   <text
     x="553.2"
     y="124.0"
@@ -2012,8 +2012,8 @@
   <text
     x="562.4"
     y="109.0"
-    class="level-0 signal"
-  >·</text>
+    class="level-1 signal"
+  >:</text>
 
   <line
     x1="26"
