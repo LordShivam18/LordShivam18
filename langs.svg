@@ -12,7 +12,7 @@
 
   <desc id="desc">
     Language statistics calculated from
-    11 public non-fork repositories.
+    12 public non-fork repositories.
   </desc>
 
   <style>
@@ -282,7 +282,7 @@
     y="78"
     text-anchor="end"
     class="secondary language-value"
-  >54.5% · 6 repos</text>
+  >50.0% · 6 repos</text>
 
   <rect
     x="330"
@@ -296,7 +296,7 @@
   <rect
     x="330"
     y="86"
-    width="95.46"
+    width="87.50"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -312,7 +312,7 @@
     y="107"
     text-anchor="end"
     class="secondary language-value"
-  >54.5% · 6 repos</text>
+  >50.0% · 6 repos</text>
 
   <rect
     x="330"
@@ -326,7 +326,7 @@
   <rect
     x="330"
     y="115"
-    width="95.46"
+    width="87.50"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -342,7 +342,7 @@
     y="136"
     text-anchor="end"
     class="secondary language-value"
-  >36.4% · 4 repos</text>
+  >33.3% · 4 repos</text>
 
   <rect
     x="330"
@@ -356,7 +356,7 @@
   <rect
     x="330"
     y="144"
-    width="63.63"
+    width="58.33"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -364,45 +364,45 @@
   <text
     x="330"
     y="165"
-    class="primary language-name"
-  >HTML</text>
-
-  <text
-    x="505"
-    y="165"
-    text-anchor="end"
-    class="secondary language-value"
-  >36.4% · 4 repos</text>
-
-  <rect
-    x="330"
-    y="173"
-    width="175"
-    height="5"
-    rx="2.5"
-    class="bar-track"
-  />
-
-  <rect
-    x="330"
-    y="173"
-    width="63.63"
-    height="5"
-    rx="2.5"
-    class="bar-fill"
-  />
-  <text
-    x="330"
-    y="194"
     class="primary language-name"
   >Dockerfile</text>
 
   <text
     x="505"
+    y="165"
+    text-anchor="end"
+    class="secondary language-value"
+  >33.3% · 4 repos</text>
+
+  <rect
+    x="330"
+    y="173"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="173"
+    width="58.33"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="330"
+    y="194"
+    class="primary language-name"
+  >HTML</text>
+
+  <text
+    x="505"
     y="194"
     text-anchor="end"
     class="secondary language-value"
-  >36.4% · 4 repos</text>
+  >33.3% · 4 repos</text>
 
   <rect
     x="330"
@@ -416,7 +416,7 @@
   <rect
     x="330"
     y="202"
-    width="63.63"
+    width="58.33"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -437,7 +437,7 @@
     class="secondary"
     font-size="9"
     letter-spacing=".4"
-  >11 PUBLIC NON-FORK REPOSITORIES</text>
+  >12 PUBLIC NON-FORK REPOSITORIES</text>
 
   <text
     x="594"
