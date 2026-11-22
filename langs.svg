@@ -12,7 +12,7 @@
 
   <desc id="desc">
     Language statistics calculated from
-    12 public non-fork repositories.
+    14 public non-fork repositories.
   </desc>
 
   <style>
@@ -114,14 +114,14 @@
     x="26"
     y="78"
     class="primary language-name"
-  >Python</text>
+  >JavaScript</text>
 
   <text
     x="201"
     y="78"
     text-anchor="end"
     class="secondary language-value"
-  >57.9%</text>
+  >85.1%</text>
 
   <rect
     x="26"
@@ -135,7 +135,7 @@
   <rect
     x="26"
     y="86"
-    width="101.25"
+    width="148.87"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -143,45 +143,45 @@
   <text
     x="26"
     y="107"
+    class="primary language-name"
+  >Python</text>
+
+  <text
+    x="201"
+    y="107"
+    text-anchor="end"
+    class="secondary language-value"
+  >9.5%</text>
+
+  <rect
+    x="26"
+    y="115"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="26"
+    y="115"
+    width="16.62"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="26"
+    y="136"
     class="primary language-name"
   >TypeScript</text>
 
   <text
     x="201"
-    y="107"
-    text-anchor="end"
-    class="secondary language-value"
-  >31.1%</text>
-
-  <rect
-    x="26"
-    y="115"
-    width="175"
-    height="5"
-    rx="2.5"
-    class="bar-track"
-  />
-
-  <rect
-    x="26"
-    y="115"
-    width="54.48"
-    height="5"
-    rx="2.5"
-    class="bar-fill"
-  />
-  <text
-    x="26"
-    y="136"
-    class="primary language-name"
-  >JavaScript</text>
-
-  <text
-    x="201"
     y="136"
     text-anchor="end"
     class="secondary language-value"
-  >6.9%</text>
+  >4.8%</text>
 
   <rect
     x="26"
@@ -195,7 +195,7 @@
   <rect
     x="26"
     y="144"
-    width="12.02"
+    width="8.35"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -211,7 +211,7 @@
     y="165"
     text-anchor="end"
     class="secondary language-value"
-  >2.3%</text>
+  >0.3%</text>
 
   <rect
     x="26"
@@ -225,7 +225,7 @@
   <rect
     x="26"
     y="173"
-    width="4.09"
+    width="2.00"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -241,7 +241,7 @@
     y="194"
     text-anchor="end"
     class="secondary language-value"
-  >1.4%</text>
+  >0.2%</text>
 
   <rect
     x="26"
@@ -255,7 +255,7 @@
   <rect
     x="26"
     y="202"
-    width="2.47"
+    width="2.00"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -282,7 +282,7 @@
     y="78"
     text-anchor="end"
     class="secondary language-value"
-  >50.0% · 6 repos</text>
+  >50.0% · 7 repos</text>
 
   <rect
     x="330"
@@ -304,49 +304,19 @@
   <text
     x="330"
     y="107"
-    class="primary language-name"
-  >CSS</text>
-
-  <text
-    x="505"
-    y="107"
-    text-anchor="end"
-    class="secondary language-value"
-  >50.0% · 6 repos</text>
-
-  <rect
-    x="330"
-    y="115"
-    width="175"
-    height="5"
-    rx="2.5"
-    class="bar-track"
-  />
-
-  <rect
-    x="330"
-    y="115"
-    width="87.50"
-    height="5"
-    rx="2.5"
-    class="bar-fill"
-  />
-  <text
-    x="330"
-    y="136"
     class="primary language-name"
   >Python</text>
 
   <text
     x="505"
-    y="136"
+    y="107"
     text-anchor="end"
     class="secondary language-value"
-  >33.3% · 4 repos</text>
+  >42.9% · 6 repos</text>
 
   <rect
     x="330"
-    y="144"
+    y="115"
     width="175"
     height="5"
     rx="2.5"
@@ -355,28 +325,28 @@
 
   <rect
     x="330"
-    y="144"
-    width="58.33"
+    y="115"
+    width="75.00"
     height="5"
     rx="2.5"
     class="bar-fill"
   />
   <text
     x="330"
-    y="165"
+    y="136"
     class="primary language-name"
-  >Dockerfile</text>
+  >CSS</text>
 
   <text
     x="505"
-    y="165"
+    y="136"
     text-anchor="end"
     class="secondary language-value"
-  >33.3% · 4 repos</text>
+  >42.9% · 6 repos</text>
 
   <rect
     x="330"
-    y="173"
+    y="144"
     width="175"
     height="5"
     rx="2.5"
@@ -385,24 +355,54 @@
 
   <rect
     x="330"
-    y="173"
-    width="58.33"
+    y="144"
+    width="75.00"
     height="5"
     rx="2.5"
     class="bar-fill"
   />
   <text
     x="330"
-    y="194"
+    y="165"
     class="primary language-name"
   >HTML</text>
 
   <text
     x="505"
+    y="165"
+    text-anchor="end"
+    class="secondary language-value"
+  >35.7% · 5 repos</text>
+
+  <rect
+    x="330"
+    y="173"
+    width="175"
+    height="5"
+    rx="2.5"
+    class="bar-track"
+  />
+
+  <rect
+    x="330"
+    y="173"
+    width="62.49"
+    height="5"
+    rx="2.5"
+    class="bar-fill"
+  />
+  <text
+    x="330"
+    y="194"
+    class="primary language-name"
+  >TypeScript</text>
+
+  <text
+    x="505"
     y="194"
     text-anchor="end"
     class="secondary language-value"
-  >33.3% · 4 repos</text>
+  >28.6% · 4 repos</text>
 
   <rect
     x="330"
@@ -416,7 +416,7 @@
   <rect
     x="330"
     y="202"
-    width="58.33"
+    width="50.00"
     height="5"
     rx="2.5"
     class="bar-fill"
@@ -437,7 +437,7 @@
     class="secondary"
     font-size="9"
     letter-spacing=".4"
-  >12 PUBLIC NON-FORK REPOSITORIES</text>
+  >14 PUBLIC NON-FORK REPOSITORIES</text>
 
   <text
     x="594"
